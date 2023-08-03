@@ -141,7 +141,7 @@ function App() {
                     <Slider
                       value={APR} onChange={handleSliderChange3} aria-label="Slider 3"
                       min={1.99}
-                      max={10}
+                      max={25}
                       step={.01}
                     />
                   </div>
