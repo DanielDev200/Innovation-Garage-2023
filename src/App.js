@@ -97,7 +97,7 @@ function App() {
             Loan Cost Caluclator
           </Typography>
           <Typography variant="p" style={{fontSize: '20px'}}>
-            Calculate how much interest you will be paying each month and over the total length of your loan
+            Calculate how much interest you will be paying over the total length of your loan.
           </Typography>
           <div className='calculator-container'>
             <Grid container spacing={3}>
